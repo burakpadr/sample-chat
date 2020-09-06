@@ -29,11 +29,11 @@ The **server** works on all computers on the **LAN (Local Area Network)**
 
 - **Python Requirements Installation**
 	- Go into  **"server"** file and you run the following command   
-		> $ `pip install -r requirements.txt`
+		> `$ pip install -r requirements.txt`
 
 - **Start The Server**
 	- Go into **"server"** file and you run following command
-		> $ `python app.py`
+		> `$ python app.py`
 	- After running the above command, the server will be starting. Then the picture below will appear
 	
 		![alt text](https://github.com/burakpadr/sample-chat/blob/master/server/media/server-started.png)	
@@ -48,14 +48,14 @@ The **server** works on all computers on the **LAN (Local Area Network)**
 
 - **Python Requirements Installation**
 	- Go into  **"client-cli"** file and you run the following command   
-		> $ `pip install -r requirements.txt`
+		> `$ pip install -r requirements.txt`
 
 - **Start The Client**
 	- If the **client** is running for the first time, go to **"/client-cli/src/etc/settings.py"** and assign the running server's  **LAN** address to the **"__HOST"** variable in the file.
 		- **Example**: `__HOST = "192.168.1.27"`
 	
 	- If the **client** is not running for the first time,  go into **"client-cli"** file and run the following code
-		> $ `python app.py`
+		> `$ python app.py`
 		
 	- After running the above command, the **client** will be starting. Then the picture below will appear
 
