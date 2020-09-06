@@ -12,7 +12,6 @@ class ViewTextConstants:
     LOBBY_TITLE = "Lobby area, say /help for help!\n"
     FRIENDSHIP_TITLE = "Friendship area, say /help for help\n"
     NOTIFICATION_TITLE = "Notification area, say /help for help\n"
-    SETTINGS_TITLE = "Settings area, say /help for help\n"
 
 
 class FormTextConstants:

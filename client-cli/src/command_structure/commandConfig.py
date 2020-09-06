@@ -32,10 +32,6 @@ class CommandConfig:
                 "description": "Go to the notification area",
                 "function": SpecialCommandRuntime.Lobby.notifications
             },
-            "/settings": {
-                "description": "Go to the settings area",
-                "function": SpecialCommandRuntime.Lobby.settings
-            },
             "/chat": {
                 "description": "Chat your friend",
                 "function": SpecialCommandRuntime.Lobby.chat

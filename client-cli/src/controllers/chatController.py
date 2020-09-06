@@ -10,7 +10,7 @@ class ChatController:
     @staticmethod
     def getViewTitles():
         Common.clearTerminal()
-        Common.printStandartText(f"Chat area with {programLocation.getLocationParameters().get('chatWith')}\n")
+        Common.printStandartText(f"Chat area with {programLocation.getLocationParameters().get('chatWith')}, say /help for help\n")
 
     @staticmethod
     def entryHandler(entry):

@@ -3,6 +3,7 @@ import subprocess
 from time import sleep
 from threading import Thread
 from .connection import Connection
+from src.etc.project import Project
 from src.etc.common import Common
 from src.etc.programLocation import programLocation
 from src.sound_structure.sound import Sound
@@ -31,7 +32,7 @@ class BackupRequest:
 
                     if sys.platform == "linux":
                         subprocess.Popen(
-                            ["notify-send", "pychat", notificationSet.get("content")])
+                            ["notify-send", Project.NAME, notificationSet.get("content")])
 
                     sleep(4)
 
@@ -61,7 +62,7 @@ class BackupRequest:
 
                     if sys.platform == "linux":
                         subprocess.Popen(
-                            ["notify-send", "pychat", notificationSet.get("content")])
+                            ["notify-send", Project.NAME, notificationSet.get("content")])
 
                     sleep(4)
 

@@ -1,7 +1,7 @@
 from datetime import datetime
 from getpass import getpass
 from src.etc.common import Common
-from src.views import profileView, friendshipView, notificationView, settingsView, chatView
+from src.views import profileView, friendshipView, notificationView, chatView
 from src.connection.connection import Connection
 
 
@@ -50,10 +50,6 @@ class SpecialCommandRuntime:
         @staticmethod
         def notifications():
             notificationView.NotificationView.view()
-
-        @staticmethod
-        def settings():
-            settingsView.SettingsView.view()
             
         @staticmethod
         def chat():

@@ -1,5 +1,5 @@
 class Project:
     
-    NAME = "pychat-client-cli"
+    NAME = "sample-chat"
     VERSION = "v1.0.0"
     AUTHOR = "burakpadr"
