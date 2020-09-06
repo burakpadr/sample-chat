@@ -19,7 +19,7 @@
 
 # Server Setup
 
-**Server** work on all computers in **LAN (Local Area Network)**
+The **server** works on all computers on the **LAN (Local Area Network)**
 
 - **Prerequisites**
 	- Python 3.6.x or greater
@@ -36,7 +36,7 @@
 		> $ `python app.py`
 	- After running the above command, the server will be starting. Then the picture below will appear
 	
-		![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/server/media/server-started.png?token=AMDTI2RFJBD3OWHUS52PNZC7KT45M)	
+		![alt text](https://raw.githubusercontent.com/burakpadr/sample-chat/master/server/media/server-started.png?token=AMDTI2RFJBD3OWHUS52PNZC7KT45M)	
 
 # Client Setup
 
