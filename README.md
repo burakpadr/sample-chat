@@ -36,7 +36,7 @@ The **server** works on all computers on the **LAN (Local Area Network)**
 		> $ `python app.py`
 	- After running the above command, the server will be starting. Then the picture below will appear
 	
-		![alt text](https://raw.githubusercontent.com/burakpadr/sample-chat/master/server/media/server-started.png?token=AMDTI2RFJBD3OWHUS52PNZC7KT45M)	
+		![alt text](https://github.com/burakpadr/sample-chat/blob/master/server/media/server-started.png)	
 
 # Client Setup
 
