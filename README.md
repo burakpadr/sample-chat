@@ -59,7 +59,7 @@ The **server** works on all computers on the **LAN (Local Area Network)**
 		
 	- After running the above command, the **client** will be starting. Then the picture below will appear
 
-		![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/client-cli/media/client-cli-access.png?token=AMDTI2WBCGD3DO7JUSTQ4GC7KUAJK)
+		![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-access.png)
 
 # TODO
 
@@ -70,14 +70,14 @@ The **server** works on all computers on the **LAN (Local Area Network)**
 
 # Pictures
 	
-![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/client-cli/media/client-cli-request.png?token=AMDTI2Q6K7E7MXMD2SVEMGS7KUDOM)
+![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-request.png)
 
-![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/client-cli/media/client-cli-notification1.png?token=AMDTI2VVZBNHKCB5LB3IZOC7KUDRY)
+![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-notification1.png)
 
-![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/client-cli/media/client-cli-accept.png?token=AMDTI2UB4ZAGJ23M4GERU2S7KUDT4)
+![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-accept.png)
 
-![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/client-cli/media/client-cli-notification2.png?token=AMDTI2WRJ6HXCQUSALAD4BS7KUDV4)
+![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-notification2.png)
 
-![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/client-cli/media/client-cli-chat1.png?token=AMDTI2RQ64L5WVNT6KYWXTS7KUDYK)
+![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-chat1.png)
 
-![enter image description here](https://raw.githubusercontent.com/burakpadr/sample-chat/master/client-cli/media/client-cli-chat2.png?token=AMDTI2WS6KCBNEMG4DRSWUC7KUDZY)
+![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-chat2.png)
