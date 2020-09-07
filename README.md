@@ -61,13 +61,6 @@ The **server** works on all computers on the **LAN (Local Area Network)**
 
 		![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-access.png)
 
-# TODO
-
-- Modern **GUI (Graphical User Interface)** will be created for **client** with **Electron.js**
-- Group Structure will be created (Group Chat)
-- Build your own server (Example: `www.example.com`)
-- Connections will be with P2P Protocol
-
 # Pictures
 	
 ![enter image description here](https://github.com/burakpadr/sample-chat/blob/master/client-cli/media/client-cli-request.png)
