@@ -4,10 +4,10 @@
 
 # Properties
 
+- Membership structure (permanent account)
 - Friendship structure
-- Permanent messages with your friends
-- Friendship structure notifications (friendship request notification, etc.)
-- New incoming message notifications
+- Sound notification structure
+- Chat with your friends permanently
 
 # Supported Platforms
 
