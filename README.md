@@ -4,7 +4,7 @@
 
 # Properties
 
-- Membership structureasdsad (permanent account)
+- Membership structure (permanent account)
 - Friendship structure
 - Sound notification structure
 - Chat with your friends permanently
